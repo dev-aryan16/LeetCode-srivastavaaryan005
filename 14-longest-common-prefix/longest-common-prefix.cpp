@@ -1,5 +1,7 @@
 class Solution {
 public:
+// THIS ONE IS COPIED NOT IMPLEMENTED ANYWHERE JUST TO MAINTAIN THE SUBMISSION
+// SORRY 
     string longestCommonPrefix(vector<string>& strs) {
     string ans = "";
 
